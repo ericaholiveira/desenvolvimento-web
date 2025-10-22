@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<signos>
+    <signo>
+        <signoNome>Aquário ♒</signoNome>
+        <dataInicio>01-20</dataInicio>
+        <dataFim>02-18</dataFim>
+        <descricao>Aquarianos são inovadores, independentes e visionários.</descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Peixes ♓</signoNome>
+        <dataInicio>02-19</dataInicio>
+        <dataFim>03-20</dataFim>
+        <descricao>Piscianos são sonhadores, empáticos e artísticos.</descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Áries ♈</signoNome>
+        <dataInicio>03-21</dataInicio>
+        <dataFim>04-19</dataFim>
+        <descricao>Arianos são determinados, impulsivos e cheios de energia. </descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Touro ♉</signoNome>
+        <dataInicio>04-20</dataInicio>
+        <dataFim>05-20</dataFim>
+        <descricao>Taurinos são persistentes, confiáveis e valorizam conforto e segurança. </descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Gêmeos ♊</signoNome>
+        <dataInicio>05-21</dataInicio>
+        <dataFim>06-20</dataFim>
+        <descricao>Geminianos são comunicativos, curiosos e versáteis. </descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Câncer ♋</signoNome>
+        <dataInicio>06-21</dataInicio>
+        <dataFim>07-22</dataFim>
+        <descricao>Cancerianos são sensíveis, protetores e intuitivos. </descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Leão ♌</signoNome>
+        <dataInicio>07-23</dataInicio>
+        <dataFim>08-22</dataFim>
+        <descricao>Leoninos são confiantes, carismáticos e generosos. </descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Virgem ♍</signoNome>
+        <dataInicio>08-23</dataInicio>
+        <dataFim>09-22</dataFim>
+        <descricao>Virginianos são organizados, detalhistas e práticos.</descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Libra ♎</signoNome>
+        <dataInicio>09-23</dataInicio>
+        <dataFim>10-22</dataFim>
+        <descricao>Librianos são diplomáticos, sociáveis e buscam equilíbrio. </descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Escorpião ♏</signoNome>
+        <dataInicio>10-23</dataInicio>
+        <dataFim>11-21</dataFim>
+        <descricao>Escorpianos são intensos, misteriosos e apaixonados. </descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Sagitário ♐</signoNome>
+        <dataInicio>11-22</dataInicio>
+        <dataFim>12-21</dataFim>
+        <descricao>Sagitarianos são aventureiros, otimistas e filosóficos. </descricao>
+    </signo>
+    
+    <signo>
+        <signoNome>Capricórnio ♑</signoNome>
+        <dataInicio>12-22</dataInicio>
+        <dataFim>01-19</dataFim>
+        <descricao>Capricornianos são disciplinados, ambiciosos e responsáveis. </descricao>
+    </signo>
+</signos>

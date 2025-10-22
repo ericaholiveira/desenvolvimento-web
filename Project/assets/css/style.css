@@ -1,0 +1,40 @@
+body {
+    background-color: #f8f9fac3; 
+}
+
+.container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.container.mt-5 {
+    margin-top: 3rem !important;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #d2a5f3 !important; 
+}
+
+.display-4 {
+    font-weight: 700;
+    color: #984bcf !important; 
+}
+
+.card-header.bg-success {
+    background-color: #f89de4 !important; 
+    border-color: #f769e9 !important;
+}
+
+.card-title.text-secondary {
+    color: #ab1dc0 !important;
+}
+
+.display-3.text-success {
+    font-size: 3.5rem;
+    font-weight: 800;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease-in-out;
+}
+
