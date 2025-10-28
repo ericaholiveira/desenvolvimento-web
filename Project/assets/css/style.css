@@ -1,40 +1,42 @@
-body {
-    background-color: #f8f9fac3; 
-}
+
 
 .container {
     padding-top: 40px;
     padding-bottom: 40px;
 }
+
 .container.mt-5 {
     margin-top: 3rem !important;
     padding-top: 40px;
     padding-bottom: 40px;
-    color: #d2a5f3 !important; 
+    color: #c98cf4 !important; 
 }
 
 .display-4 {
     font-weight: 700;
-    color: #984bcf !important; 
+    color: #cccbcd !important; 
 }
 
-.card-header.bg-success {
-    background-color: #f89de4 !important; 
-    border-color: #f769e9 !important;
-}
 
-.card-title.text-secondary {
-    color: #ab1dc0 !important;
-}
-
-.display-3.text-success {
-    font-size: 3.5rem;
-    font-weight: 800;
-}
-
-.btn-primary:hover {
+.btn-secondary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(210, 28, 255, 0.567);
     transition: all 0.2s ease-in-out;
 }
 
+.card-text.fs-5{
+    color:#c98cf4 !important;     
+}
+
+.mb-3{
+    color:#c98cf4 !important;
+}
+
+.card-title{
+    color: #c98cf4 !important;
+}
+
+.lead{
+    color: #c98cf4 !important;
+    font-weight: bold;
+}
